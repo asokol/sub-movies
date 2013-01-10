@@ -10,7 +10,9 @@ Once upon a time, I was bored about long dialog in 199x movie. Eventually, I wan
 Progress:
 Build Octave(Matlab) prototype:
 	- Parse subtitles: extract time spans.
+	
 	- Build fancy plots of time spans
+	
 	- Make clusterization to find dialogues count in movie.
 	
 
