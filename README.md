@@ -15,7 +15,7 @@ Build Octave(Matlab) prototype:
 	4.  Find average/maximum dialogue length per movie for specific year.
 	
 # Deployment: #
-	1.  Install latest version of [Octave](http://www.gnu.org/software/octave/).
+	1.  Install latest version of [Octave](http://www.gnu.org/software/octave/ "Octave").
 	2.  Clone repository.
 	3.  Run Octave and change to /prototype directory using "cd" command.
 	4.  Execute "run_tests" command from Octave.
